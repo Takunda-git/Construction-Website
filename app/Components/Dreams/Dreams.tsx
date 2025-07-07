@@ -16,7 +16,7 @@ const Dream = () => {
           <div className="text-center max-w-xl">
             <div className="border-2 w-[50px] mx-auto text-gray-400 mb-4" />
             <h1 className="text-white font-bold text-4xl md:text-6xl leading-tight">
-              LET'S BUILD YOUR <br /> DREAMS
+              LET`&apos;`S BUILD YOUR <br /> DREAMS
             </h1>
             <p className="text-gray-300 mt-6 text-sm md:text-base">
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
